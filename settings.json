@@ -1,0 +1,14 @@
+{
+    "name": "mryesiller-test",
+    "blocks": {
+        "/blockchain/avalanche": true,
+        "/blockchain/avalanche/solidity": true,
+        "/framework/vanilla": true,
+        "/category/access_control/core-contract_access": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/asset_value_tracking/core-token/name": "mryesiller",
+        "/category/asset_value_tracking/core-token/symbol": "MRY",
+        "/category/asset_value_tracking/core-token/decimals": "10",
+        "/category/asset_value_tracking/core-token/supply": "1000"
+    }
+}

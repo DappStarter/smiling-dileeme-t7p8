@@ -1,0 +1,24 @@
+{
+    "repository": {},
+    "__outputFolder": null,
+    "blocks": [
+        {
+            "category": "access_control",
+            "name": "core-contract_access",
+            "parameters": {}
+        },
+        {
+            "category": "asset_value_tracking",
+            "name": "core-token",
+            "parameters": {
+                "name": "mryesiller",
+                "symbol": "MRY",
+                "decimals": "10",
+                "supply": "1000"
+            }
+        }
+    ],
+    "blockchain": "avalanche",
+    "language": "solidity",
+    "framework": "vanilla"
+}
